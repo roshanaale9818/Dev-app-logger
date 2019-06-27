@@ -1,0 +1,18 @@
+.log-date {
+    color: #777;
+}
+
+ul li i {
+    cursor: pointer;
+}
+
+#trash {
+    font-size: 25px;
+}
+
+#trash:hover {
+    color: red;
+    /* background: black; */
+    /* font-size: 25px; */
+    transition: ease-in-out 0.3s;
+}
